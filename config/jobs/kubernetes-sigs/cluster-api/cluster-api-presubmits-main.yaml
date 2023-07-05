@@ -374,6 +374,5 @@ presubmits:
         resources:
           requests:
             cpu: 7300m
-    annotations:
       testgrid-dashboards: sig-cluster-lifecycle-cluster-api
       testgrid-tab-name: capi-pr-e2e-scale-main-experimental
